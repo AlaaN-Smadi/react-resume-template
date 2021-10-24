@@ -9,13 +9,13 @@
     "email": "alaasmadi1010@gmail.com",
     "phone": "+962-78-7189817",
     "address": {
-      "street": "Amman  Street",
-      "city": "Ajloun",
-      "state": "Ajloun",
-      "zip": "26810"
+      "street": "Sweileh",
+      "city": "Amman",
+      "state": "Amman",
+      "zip": "11910"
     },
     "website": "https://drive.google.com/file/d/1Tg7ZkxPN-9CSHEgGt10lHCoBMRs57y1M/view?usp=sharing",
-    "resumedownload": "https://drive.google.com/file/d/1Tg7ZkxPN-9CSHEgGt10lHCoBMRs57y1M/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1F51ZXVJTUbyPKBHxuqLrnoXfdJuR8QVU/view?usp=sharing",
     "social": [
       
       {
@@ -47,9 +47,64 @@
       },
       {
         "school": "LTUC-Abdul Aziz Al Ghurair School of Advanced Computing",
-        "degree": "Software Development",
-        "graduated": "Present",
-        "description": "Creating FrontEnd website by using JS, CSS, HTML"
+        "degree": "Software Development - Full Stack Development",
+        "graduated": "October 2021",
+        "description": "Learned building Full Stack Applications using : "
+      },
+      {
+    
+        "description": "JavaScript 'JS', React JS, BootStrap, React-BootStrap, CSS and HTML5 for FrontEnd "
+      },
+      {
+     
+        "description": "Node JS and Express JS for BackEnd "
+      },
+      {
+    
+        "description": "MongoDB, PostgresSQL and local storage to store data "
+      },
+      {
+        
+        "description": "Socket IO for real time messages and notifications "
+      },
+      {
+        
+        "description": "Data Structure and Algorithm including Linked list, Stack and Queue, Binary Tree, K-Tree, Graph and Hash Map  "
+      },
+      {
+        
+        
+        "school": "",
+        "degree": "101 Level - Explore Software Development",
+        "graduated": "April 2021",
+        "description": "Learned the basics of software development"
+      },
+      {
+        
+        "school": "",
+        "degree": "102 Level - Introduction To Software Development",
+        "graduated": "May 2021",
+        "description": "Learned the basics use of HTML, CSS"
+      },
+      {
+        "school": "",
+        "degree": "201 Level - Pre-intermediate level of Software Development",
+        "graduated": "June 2021",
+        "description": "Used HTML, CSS, and basic JavaScript to create interactive web pages"
+      },
+      {
+        
+        "school": "",
+        "degree": "301 Level - Intermediate level of Software Development ",
+        "graduated": "August 2021",
+        "description": "Learned the common core of software development and fundamentals, including MVC architecture, object-oriented and functional programming, and computer science fundamentals. Additionally learned how to create and launch web apps in HTML, CSS, and JavaScript, with the help of third-party APIs and libraries"
+      },
+      {
+        
+        "school": "",
+        "degree": "401 Level - Advanced level Software Development",
+        "graduated": "October 2021",
+        "description": "Built full-stack web applications with server-side Node.Js and modern, client-side, front end libraries and frameworks, including React, also I learned data structures and algorithms, professional software development techniques, and established industry best practices"
       }
     ],
     "work": [
@@ -68,64 +123,123 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "75%"
-      },
-      {
-        "name": "Photoshop",
-        "level": "65%"
-      },
-      {
-        "name": "React_Js",
-        "level": "70%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
+        "name": "HTML5",
+        "level": "100%"
       },
       {
         "name": "JS",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "React_Js",
         "level": "85%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "React_Native",
+        "level": "75%"
       },
       {
         "name": "Node_JS",
-        "level": "60%"
+        "level": "90%"
+      },
+      {
+        "name": "Express_JS",
+        "level": "90%"
+      },
+      {
+        "name": "PostgresSQL",
+        "level": "80%"
       },
       {
         "name": "Mongo_DB",
-        "level": "80%"
+        "level": "90%"
+      },
+
+      {
+        "name": "Git",
+        "level": "95%"
+      },
+      {
+        "name": "Photoshop",
+        "level": "75%"
+      },
+      {
+        "name": "Postman",
+        "level": "100%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Gaza  Support",
-        "category": "Collect Donatation for Gaza and help our family in Palestine",
-        "image": "Logo.png",
-        "url": "https://supportgaza.github.io/donation/"
-      },
-      {
         "title": "Cookie Stand",
         "category": "These cookies made into the shape of a salmon that has just a hint of fishy goodness.",
-        "image": "Peanut-Butter-Cookies-1200.jpg",
+        "image": "cookie.png",
         "url": "https://alaan-smadi.github.io/cookie-stand/index.html"
       },
       {
         "title": "Food  Lovers",
         "category": "Website I built for a restaurant to make reservation",
-        "image": "wireframe-2.PNG",
+        "image": "food.png",
         "url": "https://alaan-smadi.github.io/foodLovers/"
       },
+      {
+        "title": "City Explorer",
+        "category": "WebApp I built to find location any city by its name",
+        "image": "city.png",
+        "url": "https://city-explorer-canvas-lasb.netlify.app/"
+      },
+      {
+        "title": "ToDo App",
+        "category": "WebApp I built to set and manage your List",
+        "image": "ToDo.png",
+        "url": "https://todo-app-lab31.netlify.app/"
+      },
+      {
+        "title": "Phone Store",
+        "category": "WebApp I built just for you, to sell your phone",
+        "image": "phone.png",
+        "url": "https://mobile-project-app.netlify.app/"
+      },
+      {
+        "title": "Gaza  Support",
+        "category": "Collect Donatation for Gaza and help our family in Palestine",
+        "image": "gaza.png",
+        "url": "https://supportgaza.github.io/donation/"
+      },
+      
+      {
+        "title": "Jordan Transporter",
+        "category": "WebApp Our Team built to hel people to find hotels while they are traveling in Jordan",
+        "image": "jordan.png",
+        "url": "https://jordan-black-iris.netlify.app/"
+      },
+      
+      {
+        "title": "Chat App",
+        "category": "Website Our Team built to make it easy to contact between us using Socket IO",
+        "image": "chat.png",
+        "url": "https://gold-team-mid-project.herokuapp.com/"
+      },
+      
+      
       {
         "title": "Architect Tamplate",
         "category": "A Template I built for architect team",
         "image": "arc.png",
         "url": "https://alaan-smadi.github.io/Architect_Tamplate/#firstContainer"
+      },
+      
+      {
+        "title": "Data Structure and Algorithms",
+        "category": "A data structure is a named location that can be used to store and organize data.",
+        "image": "data.png",
+        "url": "https://github.com/AlaaN-Smadi/data-structures-and-algorithms-401"
+      
       }
     ]
   }
